@@ -10,3 +10,5 @@ enable=
     E1101, ; No-member (Gọi thuộc tính không tồn tại)
     W0612, ; Unused variable (Biến khai báo nhưng không dùng)
     W0611 ; Unused import (Import nhưng không dùng)
+
+    
