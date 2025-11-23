@@ -1,0 +1,3 @@
+Đây là nội dung ban đầu của file.
+Dòng thứ hai trong file.
+po
