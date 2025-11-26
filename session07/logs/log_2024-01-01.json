@@ -1,0 +1,1 @@
+[{"user": "A", "action": "login", "duration": 5}, {"user": "B", "action": "view", "duration": 3}, {"user": "A", "action": "logout", "duration": 1}]
